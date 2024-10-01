@@ -1,6 +1,7 @@
 # simple-java-maven-app
 
 ##  Ajput ligne pour test 
+##  Ajout ligne2  pour test enchainement pipeline 
 
 
 This repository is for the
